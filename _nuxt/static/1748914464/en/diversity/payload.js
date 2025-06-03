@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/diversity", {data:[{}],fetch:{},mutations:[["setChargedPage",false]]});

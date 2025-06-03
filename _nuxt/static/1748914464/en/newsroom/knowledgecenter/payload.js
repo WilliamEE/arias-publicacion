@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/newsroom/knowledgecenter", {data:[{}],fetch:{},mutations:[["setChargedPage",false]]});

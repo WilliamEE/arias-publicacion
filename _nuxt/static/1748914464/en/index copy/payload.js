@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/index copy", {data:[{}],fetch:{},mutations:[["increment",void 0]]});

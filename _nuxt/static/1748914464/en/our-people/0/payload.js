@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/our-people/0", (function(a,b){return {data:[{countryId:"0"}],fetch:{},mutations:[["setChargedPage",false],[a,{option:1,teamFilter:b}],[a,{option:2,teamFilter:b}],[a,{option:3,teamFilter:b}],[a,{option:4,teamFilter:b}]]}}("setTeamFilter","")));

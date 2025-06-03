@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/en/practice-areas", {data:[{}],fetch:{},mutations:[["setChargedPage",false]]});

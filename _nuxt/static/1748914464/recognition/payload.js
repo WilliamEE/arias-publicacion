@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/recognition", {data:[{}],fetch:{},mutations:[["setChargedPage",false]]});
