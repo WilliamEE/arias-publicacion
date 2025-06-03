@@ -1,0 +1,676 @@
+[
+  {
+    "name": "about-us___es",
+    "path": "/about-us",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us",
+    "_name": "_22ce1442"
+  },
+  {
+    "name": "award___es",
+    "path": "/award",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\award.vue",
+    "chunkName": "pages/award",
+    "_name": "_32e813ae"
+  },
+  {
+    "name": "contact-us___es",
+    "path": "/contact-us",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_ab29d562"
+  },
+  {
+    "name": "diversity___es",
+    "path": "/diversity",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\diversity.vue",
+    "chunkName": "pages/diversity",
+    "_name": "_6012f5b6"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6b62621e"
+  },
+  {
+    "name": "index copy___es",
+    "path": "/index%20copy",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\index copy.vue",
+    "chunkName": "pages/index copy",
+    "_name": "_4ab0d832"
+  },
+  {
+    "name": "inspire___es",
+    "path": "/inspire",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_c70369b4"
+  },
+  {
+    "name": "membership___es",
+    "path": "/membership",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\membership.vue",
+    "chunkName": "pages/membership",
+    "_name": "_3c3a5f8c"
+  },
+  {
+    "name": "recognition___es",
+    "path": "/recognition",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\recognition.vue",
+    "chunkName": "pages/recognition",
+    "_name": "_c645b0fa"
+  },
+  {
+    "name": "services___es",
+    "path": "/services",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\services.vue",
+    "chunkName": "pages/services",
+    "_name": "_73b097c2"
+  },
+  {
+    "name": "sustainability___es",
+    "path": "/sustainability",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\sustainability.vue",
+    "chunkName": "pages/sustainability",
+    "_name": "_71b4e78b"
+  },
+  {
+    "name": "about-us___en",
+    "path": "/en/about-us",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us",
+    "_name": "_22ce1442"
+  },
+  {
+    "name": "award___en",
+    "path": "/en/award",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\award.vue",
+    "chunkName": "pages/award",
+    "_name": "_32e813ae"
+  },
+  {
+    "name": "contact-us___en",
+    "path": "/en/contact-us",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\contact-us.vue",
+    "chunkName": "pages/contact-us",
+    "_name": "_ab29d562"
+  },
+  {
+    "name": "diversity___en",
+    "path": "/en/diversity",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\diversity.vue",
+    "chunkName": "pages/diversity",
+    "_name": "_6012f5b6"
+  },
+  {
+    "name": "index copy___en",
+    "path": "/en/index%20copy",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\index copy.vue",
+    "chunkName": "pages/index copy",
+    "_name": "_4ab0d832"
+  },
+  {
+    "name": "inspire___en",
+    "path": "/en/inspire",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_c70369b4"
+  },
+  {
+    "name": "membership___en",
+    "path": "/en/membership",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\membership.vue",
+    "chunkName": "pages/membership",
+    "_name": "_3c3a5f8c"
+  },
+  {
+    "name": "recognition___en",
+    "path": "/en/recognition",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\recognition.vue",
+    "chunkName": "pages/recognition",
+    "_name": "_c645b0fa"
+  },
+  {
+    "name": "services___en",
+    "path": "/en/services",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\services.vue",
+    "chunkName": "pages/services",
+    "_name": "_73b097c2"
+  },
+  {
+    "name": "sustainability___en",
+    "path": "/en/sustainability",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\sustainability.vue",
+    "chunkName": "pages/sustainability",
+    "_name": "_71b4e78b"
+  },
+  {
+    "name": "newsroom-knowledgecenter___es",
+    "path": "/newsroom/knowledgecenter",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsroom\\\\knowledgecenter.vue",
+    "chunkName": "pages/newsroom/knowledgecenter",
+    "_name": "_bb2a9f9e"
+  },
+  {
+    "name": "newsroom-main___es",
+    "path": "/newsroom/main",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsroom\\\\main.vue",
+    "chunkName": "pages/newsroom/main",
+    "_name": "_7c061a6a"
+  },
+  {
+    "name": "newsroom-news___es",
+    "path": "/newsroom/news",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsroom\\\\news.vue",
+    "chunkName": "pages/newsroom/news",
+    "_name": "_15a15ae5"
+  },
+  {
+    "name": "newsroom-newsletter___es",
+    "path": "/newsroom/newsletter",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsroom\\\\newsletter.vue",
+    "chunkName": "pages/newsroom/newsletter",
+    "_name": "_dd8c636a"
+  },
+  {
+    "name": "newsroom-knowledgecenter___en",
+    "path": "/en/newsroom/knowledgecenter",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsroom\\\\knowledgecenter.vue",
+    "chunkName": "pages/newsroom/knowledgecenter",
+    "_name": "_bb2a9f9e"
+  },
+  {
+    "name": "newsroom-main___en",
+    "path": "/en/newsroom/main",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsroom\\\\main.vue",
+    "chunkName": "pages/newsroom/main",
+    "_name": "_7c061a6a"
+  },
+  {
+    "name": "newsroom-news___en",
+    "path": "/en/newsroom/news",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsroom\\\\news.vue",
+    "chunkName": "pages/newsroom/news",
+    "_name": "_15a15ae5"
+  },
+  {
+    "name": "newsroom-newsletter___en",
+    "path": "/en/newsroom/newsletter",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsroom\\\\newsletter.vue",
+    "chunkName": "pages/newsroom/newsletter",
+    "_name": "_dd8c636a"
+  },
+  {
+    "name": "index___es",
+    "path": "/",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_6b62621e"
+  },
+  {
+    "name": "our-people-profile-lawyerId-title___en",
+    "path": "/en/our-people/profile/:lawyerId?/:title?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\our-people\\\\profile\\\\_lawyerId\\\\_title.vue",
+    "chunkName": "pages/our-people/profile/_lawyerId/_title",
+    "_name": "_a29a1e7c"
+  },
+  {
+    "name": "newsletterNew-newsletterId___en",
+    "path": "/en/newsletterNew/:newsletterId?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsletterNew\\\\_newsletterId.vue",
+    "chunkName": "pages/newsletterNew/_newsletterId",
+    "_name": "_5734bb70"
+  },
+  {
+    "name": "our-people-countryId___en",
+    "path": "/en/our-people/:countryId?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\our-people\\\\_countryId.vue",
+    "chunkName": "pages/our-people/_countryId",
+    "_name": "_a48a5c34"
+  },
+  {
+    "name": "searcher-textToSearch___en",
+    "path": "/en/searcher/:textToSearch?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\searcher\\\\_textToSearch.vue",
+    "chunkName": "pages/searcher/_textToSearch",
+    "_name": "_04d01606"
+  },
+  {
+    "name": "detailService-id-title___en",
+    "path": "/en/detailService/:id?/:title?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\detailService\\\\_id\\\\_title.vue",
+    "chunkName": "pages/detailService/_id/_title",
+    "_name": "_8b5aeb5a"
+  },
+  {
+    "name": "our-people-profile-lawyerId-title___es",
+    "path": "/our-people/profile/:lawyerId?/:title?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\our-people\\\\profile\\\\_lawyerId\\\\_title.vue",
+    "chunkName": "pages/our-people/profile/_lawyerId/_title",
+    "_name": "_a29a1e7c"
+  },
+  {
+    "name": "detailNew-articleId-newsType-title___en",
+    "path": "/en/detailNew/:articleId?/:newsType?/:title?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\detailNew\\\\_articleId\\\\_newsType\\\\_title.vue",
+    "chunkName": "pages/detailNew/_articleId/_newsType/_title",
+    "_name": "_d5fd5330"
+  },
+  {
+    "name": "newsletterNew-newsletterId___es",
+    "path": "/newsletterNew/:newsletterId?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\newsletterNew\\\\_newsletterId.vue",
+    "chunkName": "pages/newsletterNew/_newsletterId",
+    "_name": "_5734bb70"
+  },
+  {
+    "name": "our-people-countryId___es",
+    "path": "/our-people/:countryId?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\our-people\\\\_countryId.vue",
+    "chunkName": "pages/our-people/_countryId",
+    "_name": "_a48a5c34"
+  },
+  {
+    "name": "searcher-textToSearch___es",
+    "path": "/searcher/:textToSearch?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\searcher\\\\_textToSearch.vue",
+    "chunkName": "pages/searcher/_textToSearch",
+    "_name": "_04d01606"
+  },
+  {
+    "path": "/en/:language/about-us",
+    "component": "~/pages/about-us.vue",
+    "_name": "_248d4b08"
+  },
+  {
+    "path": "/en/:language/areas-practica",
+    "component": "~/pages/services.vue",
+    "_name": "_756fce88"
+  },
+  {
+    "path": "/en/:language/awards",
+    "component": "~/pages/award.vue",
+    "_name": "_6877a523"
+  },
+  {
+    "path": "/en/:language/contact-us",
+    "component": "~/pages/contact-us.vue",
+    "_name": "_3937b295"
+  },
+  {
+    "path": "/en/:language/contacto",
+    "component": "~/pages/contact-us.vue",
+    "_name": "_3937b295"
+  },
+  {
+    "path": "/en/:language/diversidad",
+    "component": "~/pages/diversity.vue",
+    "_name": "_061e271f"
+  },
+  {
+    "path": "/en/:language/diversity",
+    "component": "~/pages/diversity.vue",
+    "_name": "_061e271f"
+  },
+  {
+    "path": "/en/:language/home",
+    "component": "~/pages/index.vue",
+    "_name": "_2563ddd0"
+  },
+  {
+    "path": "/en/:language/inicio",
+    "component": "~/pages/index.vue",
+    "_name": "_2563ddd0"
+  },
+  {
+    "path": "/en/:language/memberships",
+    "component": "~/pages/membership.vue",
+    "_name": "_70af6d80"
+  },
+  {
+    "path": "/en/:language/membresias",
+    "component": "~/pages/membership.vue",
+    "_name": "_70af6d80"
+  },
+  {
+    "path": "/en/:language/practice-areas",
+    "component": "~/pages/services.vue",
+    "_name": "_756fce88"
+  },
+  {
+    "path": "/en/:language/premios",
+    "component": "~/pages/award.vue",
+    "_name": "_6877a523"
+  },
+  {
+    "path": "/en/:language/recognitions",
+    "component": "~/pages/recognition.vue",
+    "_name": "_30b79a06"
+  },
+  {
+    "path": "/en/:language/reconocimientos",
+    "component": "~/pages/recognition.vue",
+    "_name": "_30b79a06"
+  },
+  {
+    "path": "/en/:language/sobre-nosotros",
+    "component": "~/pages/about-us.vue",
+    "_name": "_248d4b08"
+  },
+  {
+    "path": "/en/:language/sostenibilidad",
+    "component": "~/pages/sustainability.vue",
+    "_name": "_62c571d1"
+  },
+  {
+    "path": "/en/:language/sustainability",
+    "component": "~/pages/sustainability.vue",
+    "_name": "_62c571d1"
+  },
+  {
+    "path": "/en/:language/newsroom/knowledgecenter",
+    "component": "~/pages/newsroom/knowledgecenter.vue",
+    "_name": "_55d7989c"
+  },
+  {
+    "path": "/en/:language/newsroom/knowledgecenter",
+    "component": "~/pages/newsroom/knowledgecenter.vue",
+    "_name": "_55d7989c"
+  },
+  {
+    "path": "/en/:language/newsroom/main",
+    "component": "~/pages/newsroom/main.vue",
+    "_name": "_3d2d1f40"
+  },
+  {
+    "path": "/en/:language/newsroom/main",
+    "component": "~/pages/newsroom/main.vue",
+    "_name": "_3d2d1f40"
+  },
+  {
+    "path": "/en/:language/newsroom/news",
+    "component": "~/pages/newsroom/news.vue",
+    "_name": "_de5cf14c"
+  },
+  {
+    "path": "/en/:language/newsroom/newsletter",
+    "component": "~/pages/newsroom/newsletter.vue",
+    "_name": "_b05be200"
+  },
+  {
+    "path": "/en/:language/newsroom/newsletter",
+    "component": "~/pages/newsroom/newsletter.vue",
+    "_name": "_b05be200"
+  },
+  {
+    "path": "/en/:language/newsroom/noticias",
+    "component": "~/pages/newsroom/news.vue",
+    "_name": "_de5cf14c"
+  },
+  {
+    "path": "/en/:language/newsroom/newsletterNew/:newsletterId",
+    "component": "~/pages/newsletterNew/_newsletterId.vue",
+    "_name": "_c59fb61e"
+  },
+  {
+    "path": "/en/:language/newsroom/noticia-newsletter/:newsletterId",
+    "component": "~/pages/newsletterNew/_newsletterId.vue",
+    "_name": "_c59fb61e"
+  },
+  {
+    "path": "/en/:language/nuestra-gente-in/perfil/:lawyerId/:_title",
+    "component": "~/pages/our-people/profile/_lawyerId/_title.vue",
+    "_name": "_206f0ed5"
+  },
+  {
+    "path": "/en/:language/our-people/profile/:lawyerId/:_title",
+    "component": "~/pages/our-people/profile/_lawyerId/_title.vue",
+    "_name": "_206f0ed5"
+  },
+  {
+    "path": "/en/:language/buscador/:textToSearch",
+    "component": "~/pages/searcher/_textToSearch.vue",
+    "_name": "_717d151f"
+  },
+  {
+    "path": "/en/:language/nuestra-gente-in/:countryId",
+    "component": "~/pages/our-people/_countryId.vue",
+    "_name": "_022e5452"
+  },
+  {
+    "path": "/en/:language/our-people/:countryId",
+    "component": "~/pages/our-people/_countryId.vue",
+    "_name": "_022e5452"
+  },
+  {
+    "path": "/en/:language/searcher/:textToSearch",
+    "component": "~/pages/searcher/_textToSearch.vue",
+    "_name": "_717d151f"
+  },
+  {
+    "path": "/en/:language/detalle-area-practica/:practiceAreaId/:practiceAreaName",
+    "component": "~/pages/detailService/_id/_title.vue",
+    "_name": "_18bfedc3"
+  },
+  {
+    "path": "/en/:language/practice-area-detail/:practiceAreaId/:practiceAreaName",
+    "component": "~/pages/detailService/_id/_title.vue",
+    "_name": "_18bfedc3"
+  },
+  {
+    "path": "/en/:language/detalle-noticia/:articleId/:newsType/:articleName",
+    "component": "~/pages/detailNew/_articleId/_newsType/_title.vue",
+    "_name": "_5186f23f"
+  },
+  {
+    "path": "/en/:language/new-detail/:articleId/:newsType/:articleName",
+    "component": "~/pages/detailNew/_articleId/_newsType/_title.vue",
+    "_name": "_5186f23f"
+  },
+  {
+    "name": "detailService-id-title___es",
+    "path": "/detailService/:id?/:title?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\detailService\\\\_id\\\\_title.vue",
+    "chunkName": "pages/detailService/_id/_title",
+    "_name": "_8b5aeb5a"
+  },
+  {
+    "name": "detailNew-articleId-newsType-title___es",
+    "path": "/detailNew/:articleId?/:newsType?/:title?",
+    "component": "C:\\\\Users\\\\William.DESKTOP-BCSPGOT\\\\Desktop\\\\Development\\\\Arias\\\\WepPage\\\\Cambios21Mayo\\\\page-web-front\\\\pages\\\\detailNew\\\\_articleId\\\\_newsType\\\\_title.vue",
+    "chunkName": "pages/detailNew/_articleId/_newsType/_title",
+    "_name": "_d5fd5330"
+  },
+  {
+    "path": "/:language/about-us",
+    "component": "~/pages/about-us.vue",
+    "_name": "_248d4b08"
+  },
+  {
+    "path": "/:language/areas-practica",
+    "component": "~/pages/services.vue",
+    "_name": "_756fce88"
+  },
+  {
+    "path": "/:language/awards",
+    "component": "~/pages/award.vue",
+    "_name": "_6877a523"
+  },
+  {
+    "path": "/:language/contact-us",
+    "component": "~/pages/contact-us.vue",
+    "_name": "_3937b295"
+  },
+  {
+    "path": "/:language/contacto",
+    "component": "~/pages/contact-us.vue",
+    "_name": "_3937b295"
+  },
+  {
+    "path": "/:language/diversidad",
+    "component": "~/pages/diversity.vue",
+    "_name": "_061e271f"
+  },
+  {
+    "path": "/:language/diversity",
+    "component": "~/pages/diversity.vue",
+    "_name": "_061e271f"
+  },
+  {
+    "path": "/:language/home",
+    "component": "~/pages/index.vue",
+    "_name": "_2563ddd0"
+  },
+  {
+    "path": "/:language/inicio",
+    "component": "~/pages/index.vue",
+    "_name": "_2563ddd0"
+  },
+  {
+    "path": "/:language/memberships",
+    "component": "~/pages/membership.vue",
+    "_name": "_70af6d80"
+  },
+  {
+    "path": "/:language/membresias",
+    "component": "~/pages/membership.vue",
+    "_name": "_70af6d80"
+  },
+  {
+    "path": "/:language/practice-areas",
+    "component": "~/pages/services.vue",
+    "_name": "_756fce88"
+  },
+  {
+    "path": "/:language/premios",
+    "component": "~/pages/award.vue",
+    "_name": "_6877a523"
+  },
+  {
+    "path": "/:language/recognitions",
+    "component": "~/pages/recognition.vue",
+    "_name": "_30b79a06"
+  },
+  {
+    "path": "/:language/reconocimientos",
+    "component": "~/pages/recognition.vue",
+    "_name": "_30b79a06"
+  },
+  {
+    "path": "/:language/sobre-nosotros",
+    "component": "~/pages/about-us.vue",
+    "_name": "_248d4b08"
+  },
+  {
+    "path": "/:language/sostenibilidad",
+    "component": "~/pages/sustainability.vue",
+    "_name": "_62c571d1"
+  },
+  {
+    "path": "/:language/sustainability",
+    "component": "~/pages/sustainability.vue",
+    "_name": "_62c571d1"
+  },
+  {
+    "path": "/:language/newsroom/knowledgecenter",
+    "component": "~/pages/newsroom/knowledgecenter.vue",
+    "_name": "_55d7989c"
+  },
+  {
+    "path": "/:language/newsroom/knowledgecenter",
+    "component": "~/pages/newsroom/knowledgecenter.vue",
+    "_name": "_55d7989c"
+  },
+  {
+    "path": "/:language/newsroom/main",
+    "component": "~/pages/newsroom/main.vue",
+    "_name": "_3d2d1f40"
+  },
+  {
+    "path": "/:language/newsroom/main",
+    "component": "~/pages/newsroom/main.vue",
+    "_name": "_3d2d1f40"
+  },
+  {
+    "path": "/:language/newsroom/news",
+    "component": "~/pages/newsroom/news.vue",
+    "_name": "_de5cf14c"
+  },
+  {
+    "path": "/:language/newsroom/newsletter",
+    "component": "~/pages/newsroom/newsletter.vue",
+    "_name": "_b05be200"
+  },
+  {
+    "path": "/:language/newsroom/newsletter",
+    "component": "~/pages/newsroom/newsletter.vue",
+    "_name": "_b05be200"
+  },
+  {
+    "path": "/:language/newsroom/noticias",
+    "component": "~/pages/newsroom/news.vue",
+    "_name": "_de5cf14c"
+  },
+  {
+    "path": "/:language/newsroom/newsletterNew/:newsletterId",
+    "component": "~/pages/newsletterNew/_newsletterId.vue",
+    "_name": "_c59fb61e"
+  },
+  {
+    "path": "/:language/newsroom/noticia-newsletter/:newsletterId",
+    "component": "~/pages/newsletterNew/_newsletterId.vue",
+    "_name": "_c59fb61e"
+  },
+  {
+    "path": "/:language/nuestra-gente-in/perfil/:lawyerId/:_title",
+    "component": "~/pages/our-people/profile/_lawyerId/_title.vue",
+    "_name": "_206f0ed5"
+  },
+  {
+    "path": "/:language/our-people/profile/:lawyerId/:_title",
+    "component": "~/pages/our-people/profile/_lawyerId/_title.vue",
+    "_name": "_206f0ed5"
+  },
+  {
+    "path": "/:language/buscador/:textToSearch",
+    "component": "~/pages/searcher/_textToSearch.vue",
+    "_name": "_717d151f"
+  },
+  {
+    "path": "/:language/nuestra-gente-in/:countryId",
+    "component": "~/pages/our-people/_countryId.vue",
+    "_name": "_022e5452"
+  },
+  {
+    "path": "/:language/our-people/:countryId",
+    "component": "~/pages/our-people/_countryId.vue",
+    "_name": "_022e5452"
+  },
+  {
+    "path": "/:language/searcher/:textToSearch",
+    "component": "~/pages/searcher/_textToSearch.vue",
+    "_name": "_717d151f"
+  },
+  {
+    "path": "/:language/detalle-area-practica/:practiceAreaId/:practiceAreaName",
+    "component": "~/pages/detailService/_id/_title.vue",
+    "_name": "_18bfedc3"
+  },
+  {
+    "path": "/:language/practice-area-detail/:practiceAreaId/:practiceAreaName",
+    "component": "~/pages/detailService/_id/_title.vue",
+    "_name": "_18bfedc3"
+  },
+  {
+    "path": "/:language/detalle-noticia/:articleId/:newsType/:articleName",
+    "component": "~/pages/detailNew/_articleId/_newsType/_title.vue",
+    "_name": "_5186f23f"
+  },
+  {
+    "path": "/:language/new-detail/:articleId/:newsType/:articleName",
+    "component": "~/pages/detailNew/_articleId/_newsType/_title.vue",
+    "_name": "_5186f23f"
+  }
+]

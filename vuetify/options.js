@@ -1,0 +1,1 @@
+export default {"theme":{"themes":{"light":{"primary":"#de1519","success":"#3EB75E","accent":"#FF7F5C","teal":"#26B0A1","warning":"#FF8F3C","error":"#FF585A","cyan":"#42D3D5"}}},"icons":{"iconfont":"faSvg","values":{"Man":{"component":"ManIcon"},"Woman":{"component":"WomanIcon"}}}}
