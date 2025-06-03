@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/es/newsroom/noticias", (function(a,b){return {data:[{}],fetch:{},mutations:[["setChargedPage",false],[a,{option:1,newFilter:b}],[a,{option:2,newFilter:b}],[a,{option:3,newFilter:b}],[a,{option:4,newFilter:b}],[a,{option:5,newFilter:b}]]}}("setNewFilter","")));

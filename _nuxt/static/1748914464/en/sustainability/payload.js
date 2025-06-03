@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/sustainability", {data:[{}],fetch:{},mutations:[["setChargedPage",false]]});

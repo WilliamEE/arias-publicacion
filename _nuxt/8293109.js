@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{493:function(e){e.exports=JSON.parse('{"page_title":"Blog Page"}')}}]);

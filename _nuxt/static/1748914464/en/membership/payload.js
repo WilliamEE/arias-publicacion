@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/membership", {data:[{}],fetch:{},mutations:[["setChargedPage",false]]});

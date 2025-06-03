@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/es/premios", {data:[{}],fetch:{},mutations:[["setChargedPage",false]]});

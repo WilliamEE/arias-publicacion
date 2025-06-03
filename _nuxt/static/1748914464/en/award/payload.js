@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/en/award", {data:[{}],fetch:{},mutations:[["setChargedPage",false]]});

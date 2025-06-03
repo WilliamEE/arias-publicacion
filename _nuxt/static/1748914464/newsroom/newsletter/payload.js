@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/newsroom/newsletter", {data:[{}],fetch:{},mutations:[["setChargedPage",false],["setNewsletterFilter",""]]});
